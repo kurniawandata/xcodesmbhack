@@ -11,7 +11,7 @@ Program ini dibuat berdasarkan exploit dari https://github.com/worawit/MS17-010 
 
 Daftar file
 -----------
-File hackwindows.sh dibuat oleh Kurniawan dengan licensi : GNU General Public License
+File hackwindows.sh dibuat oleh Kurniawan. trainingxcode@gmail.com. xcode.or.id. Licensi : GNU General Public License
 
 File dos1.py berasal dari https://github.com/worawit/MS17-010 yang disesuaikan isinya agar bisa untuk denial of service windows 7/8.1/10 
 
@@ -39,5 +39,3 @@ chmod 777 *
 ./hackwindows.sh
 
 Jika ingin mengedit exploit dari hackwindows.sh, tekan ctrl+w lalu ketik 192.168.1.223, ganti ipnya dengan ip linux kamu atau ip pentester.
-
-Program X-code SMB Hack ini dibuat oleh Kurniawan. trainingxcode@gmail.com. xcode.or.id
