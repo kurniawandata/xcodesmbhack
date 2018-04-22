@@ -1,8 +1,4 @@
 # xcodesmbhack
-
-X-code SMB Hack
----------------
-
 Program untuk membantu hacking SMB Windows 7, 8.1, 10, Server 2012, Server 2016 (Bypass Firewall &amp; bypass Windows Defender).
 
 Program ini dibuat berdasarkan exploit dari https://github.com/worawit/MS17-010 yang memanfaatkan celah bug dari MS17-10. 
