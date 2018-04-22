@@ -3,7 +3,7 @@
 X-code SMB Hack for Kali Linux 2
 --------------------------------
 
-Tidak disarankan untuk diluar Kali Linux 2.0 kecuali anda mengedit sendiri programnya.
+Tidak disarankan untuk diluar Kali Linux 2 kecuali anda mengedit sendiri programnya.
 
 Program untuk membantu hacking SMB Windows 7, 8.1, 10, Server 2012, Server 2016 (Bypass Firewall &amp; bypass Windows Defender).
 
