@@ -50,4 +50,4 @@ chmod 777 *
 
 ./hackwindows.sh
 
-Jika ingin mengedit exploit dari hackwindows.sh, tekan ctrl+w lalu ketik 192.168.1.223, ganti ipnya dengan ip linux kamu atau ip pentester.
+Jika ingin mengedit exploit dari hackwindows.sh, tekan ctrl+w lalu ketik 192.168.1.223 lalu enter, ganti semua ipnya dengan ip linux kamu atau ip pentester.
