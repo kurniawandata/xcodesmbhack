@@ -5,12 +5,12 @@ while [ $again == 'Y' ] || [ $again == 'y' ];
 do
 clear
 echo "======================================================";
-echo " X-code SMB hack for Kali Linux                       ";
+echo " X-code SMB hack for Kali Linux 2.0                   ";
 echo " Hack windows XP/Vista/7/8.1/10/2012/2016             ";
 echo " Bypass Firewall & bypass Windows Defender            ";
 echo " Oleh Kurniawan                                       ";
 echo " Kurniawanajazenfone@gmail.com                        ";
-echo " xcode.or.id		                            ";
+echo " xcode.or.id		                                    ";
 echo "------------------------------------------------------";
 echo " 1. Status X-code SMB Hack                            ";
 echo "------------------------------------------------------";
