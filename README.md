@@ -9,6 +9,13 @@ Program untuk membantu hacking SMB Windows 7, 8.1, 10, Server 2012, Server 2016 
 
 Program ini sebagai core hacknya menggunakan exploit dari https://github.com/worawit/MS17-010 yang memanfaatkan celah bug dari MS17-10. 
 
+Bagaimana cara kerja X-code SMB Hack?
+------------------------------
+
+X-code SMB Hack akan membuat share program netcat windows otomatis pada kali linux, melalui share ini saat exploit dai worawit dijalankan maka akan menghubungi komputer anda untuk mengambil program netcat.
+
+Exploit dari hasil modifikasi selain akan menghubungi komputer anda juga akan menutup share ke komputer anda setelah file nc.exe disalin ke komputer target, di komputer target, exploit dari hasil modifikasi tersebut akan menghubungi komputer anda kembali dengan menggunakan netcat agar komputer anda sebagai penyerang atau pentester dapat terhubung dengan komputer target dalam bentuk akses command prompt.
+
 Daftar file
 -----------
 File hackwindows.sh dibuat oleh Kurniawan. trainingxcode@gmail.com. xcode.or.id. Licensi : GNU General Public License
