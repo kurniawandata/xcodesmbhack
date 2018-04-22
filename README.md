@@ -16,10 +16,10 @@ X-code SMB Hack akan membuat share program netcat windows secara otomatis pada k
 
 Exploit dari hasil modifikasi selain akan menghubungi komputer anda juga akan menutup share ke komputer anda secara otomatis setelah file nc.exe disalin ke komputer target. Setelah itu di komputer target, exploit dari hasil modifikasi tersebut akan menghubungi komputer anda kembali dengan menggunakan netcat agar komputer anda sebagai penyerang atau pentester dapat terhubung dengan komputer target melalui akses command prompt.
 
-Apa kelebihan X-code SMB Hack dibandingkan dari exploit dari metasploit framework?
+Apa kelebihan X-code SMB Hack dibandingkan dari exploit dari m*tasploit framework?
 ----------------------------------------------------------------------------------
 
-Program ini bekerja cukup stabil saat targetnya memiliki bug dan memang bisa dihack khususnya untuk Windows Server 2016 yang di mana saat di MSF ketika dicoba tidak dapat berjalan, tapi exploit dari worawit ini bisa melakukannya. 
+Program ini bekerja cukup stabil saat targetnya memiliki bug dan memang bisa dihack khususnya untuk Windows Server 2016 yang di mana saat di M*tasploit ketika dicoba tidak dapat berjalan, tapi exploit dari worawit ini bisa melakukannya. 
 
 Daftar file
 -----------
