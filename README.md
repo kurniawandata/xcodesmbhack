@@ -1,7 +1,9 @@
 # xcodesmbhack
 
-X-code SMB Hack for Kali Linux 2
---------------------------------
+X-code SMB Hack v0.2 for Kali Linux 2
+-------------------------------------
+
+Update : 09/05/2018
 
 Tidak disarankan untuk diluar Kali Linux 2 kecuali anda mengedit sendiri programnya.
 
@@ -46,7 +48,7 @@ git clone https://github.com/kurniawandata/xcodesmbhack.git
 
 cd xcodesmbhack
 
-chmod 777 *
+chmod -R 777 *
 
 ./hackwindows.sh
 
