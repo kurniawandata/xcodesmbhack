@@ -59,7 +59,7 @@ case $choice in
     fi
     ;;
  
-3)  sudo nano hack1.py
+3)  sudo nano support/hack1.py
     ;;
 
 4)  echo "Pastikan dulu sebelum memasukkan ip target, sudah menjalankan nc -v -l -p 1500 di terminal lain dan mengedit exploit."  
