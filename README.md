@@ -3,7 +3,7 @@
 X-code SMB Hack v0.3 for Kali Linux
 -----------------------------------
 
-Update : 09/05/2018
+Update : 09 Mei 2020
 
 Tidak disarankan untuk diluar Kali Linux 2 kecuali anda mengedit sendiri programnya.
 
