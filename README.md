@@ -5,9 +5,7 @@ X-code SMB Hack v0.3 for Kali Linux
 
 Update : 09 Mei 2020
 
-Tidak disarankan untuk diluar Kali Linux 2 kecuali anda mengedit sendiri programnya.
-
-Program untuk membantu hacking SMB Windows 7, 8.1, Server 2012.
+Program untuk membantu hacking SMB Windows 7, 8.1 dan Server 2012 serta DoS Windows 7, 8 dan 10.
 
 Program ini sebagai core hacknya menggunakan exploit dari https://github.com/worawit/MS17-010 yang memanfaatkan celah bug dari MS17-10. 
 
