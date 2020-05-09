@@ -32,7 +32,7 @@ echo "------------------------------------------------------";
 echo " 9. Exit                                             ";
 echo "======================================================";
 
-read -p "Masukkan Pilihan Anda antara 1 hingga 10: " choice;
+read -p "Masukkan Pilihan Anda antara 1 hingga 9: " choice;
 echo "";
 case $choice in
 
