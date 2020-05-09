@@ -111,7 +111,7 @@ case $choice in
 *)    echo "Maaf, menu tidak ada"
 esac
 echo ""
-echo "X-code SMB Hack v0.2"
+echo "X-code SMB Hack v0.3"
 echo "Oleh Kurniawan - trainingxcode@gmail.com. xcode.or.id"
 echo ""
 echo -n "Kembali ke menu? [y/n]: ";
