@@ -5,8 +5,8 @@ while [ $again == 'Y' ] || [ $again == 'y' ];
 do
 clear
 echo "======================================================";
-echo " X-code SMB hack for Kali Linux 2.0                   ";
-echo " Hack windows XP/Vista/7/8.1/10/2012/2016             ";
+echo " X-code SMB hack for Kali Linux                       ";
+echo " Hack windows 7/8.1/2012 dan DoS Windows 7/8.1/10     ";
 echo " Bypass Firewall & bypass Windows Defender            ";
 echo " Oleh Kurniawan                                       ";
 echo " Kurniawanajazenfone@gmail.com                        ";
@@ -17,20 +17,19 @@ echo "------------------------------------------------------";
 echo " 2. Install X-code SMB Hack for Kali Linux            ";
 echo "------------------------------------------------------";
 echo " Remote                                               ";
-echo " 3. Edit Exploit untuk remote Windows 7 / 8.1 / 10    ";
-echo " 4. Hack Windows 7 / 8.1 / 10                         ";
+echo " 3. Edit Exploit untuk remote Windows 7 / 8.1         ";
+echo " 4. Hack Windows 7 / 8.1                              ";
 echo "------------------------------------------------------";
 echo " Remote                                               ";
-echo " 5. Edit Exploit untuk remote Windows 2012 / 2016     ";
-echo " 6. Hack Windows Server 2012 / 2016                   ";
+echo " 5. Edit Exploit untuk remote Windows 2012            ";
+echo " 6. Hack Windows Server 2012                          ";
 echo "------------------------------------------------------";
-echo " 7. Uninstall X-code SMB Hack for Kali Linux 2.0      ";
+echo " 7. Uninstall X-code SMB Hack for Kali Linux          ";
 echo "------------------------------------------------------";
 echo " Denial of Service                                    ";
 echo " 8. Denial of Service SMB Windows 7 / 8.1 / 10        ";
-echo " 9. Denial of Service SMB Windows 2012 / 2016         ";
 echo "------------------------------------------------------";
-echo " 10. Exit                                             ";
+echo " 9. Exit                                             ";
 echo "======================================================";
 
 read -p "Masukkan Pilihan Anda antara 1 hingga 10: " choice;
